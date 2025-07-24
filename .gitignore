@@ -1,6 +1,7 @@
 #///////////////////////////
 # Cocos Creator 3D Project
 #///////////////////////////
+.creator/
 library/
 temp/
 local/
